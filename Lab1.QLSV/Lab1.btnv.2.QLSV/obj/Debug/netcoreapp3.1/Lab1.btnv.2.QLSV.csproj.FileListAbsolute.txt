@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Lab1.btnv.2.QLSV\Lab1.btnv.2.QLSV\bin\Debug\netcoreapp3.1\Lab1.btnv.2.QLSV.exe
+C:\Users\Admin\source\repos\Lab1.btnv.2.QLSV\Lab1.btnv.2.QLSV\bin\Debug\netcoreapp3.1\Lab1.btnv.2.QLSV.deps.json
+C:\Users\Admin\source\repos\Lab1.btnv.2.QLSV\Lab1.btnv.2.QLSV\bin\Debug\netcoreapp3.1\Lab1.btnv.2.QLSV.runtimeconfig.json
+C:\Users\Admin\source\repos\Lab1.btnv.2.QLSV\Lab1.btnv.2.QLSV\bin\Debug\netcoreapp3.1\Lab1.btnv.2.QLSV.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Lab1.btnv.2.QLSV\Lab1.btnv.2.QLSV\bin\Debug\netcoreapp3.1\Lab1.btnv.2.QLSV.dll
+C:\Users\Admin\source\repos\Lab1.btnv.2.QLSV\Lab1.btnv.2.QLSV\bin\Debug\netcoreapp3.1\Lab1.btnv.2.QLSV.pdb
+C:\Users\Admin\source\repos\Lab1.btnv.2.QLSV\Lab1.btnv.2.QLSV\obj\Debug\netcoreapp3.1\Lab1.btnv.2.QLSV.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Lab1.btnv.2.QLSV\Lab1.btnv.2.QLSV\obj\Debug\netcoreapp3.1\Lab1.btnv.2.QLSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Lab1.btnv.2.QLSV\Lab1.btnv.2.QLSV\obj\Debug\netcoreapp3.1\Lab1.btnv.2.QLSV.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Lab1.btnv.2.QLSV\Lab1.btnv.2.QLSV\obj\Debug\netcoreapp3.1\Lab1.btnv.2.QLSV.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Lab1.btnv.2.QLSV\Lab1.btnv.2.QLSV\obj\Debug\netcoreapp3.1\Lab1.btnv.2.QLSV.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Lab1.btnv.2.QLSV\Lab1.btnv.2.QLSV\obj\Debug\netcoreapp3.1\Lab1.btnv.2.QLSV.dll
+C:\Users\Admin\source\repos\Lab1.btnv.2.QLSV\Lab1.btnv.2.QLSV\obj\Debug\netcoreapp3.1\Lab1.btnv.2.QLSV.pdb
+C:\Users\Admin\source\repos\Lab1.btnv.2.QLSV\Lab1.btnv.2.QLSV\obj\Debug\netcoreapp3.1\Lab1.btnv.2.QLSV.genruntimeconfig.cache
