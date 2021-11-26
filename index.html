@@ -1,12 +1,139 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+	<meta charset="utf-8">
+	<title>Báo Mới - Tin tức nóng nhất, cập nhật liên tục ...</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-  <h1>Chào mừng bạn</h1>
+	<header>
+		<div class="header">
+			<a href="#"></a>
+			<div class="search">
+				<input type="text" placeholder="Nhập nội dung tìm kiếm">
+				<button></button>
+			</div>
+		</div>
+	</header>
+	<nav>
+		<div class="nav">
+			<ul>
+				<li>NÓNG</li>
+				<li>MỚI</li>
+				<li>VIDEO</li>
+				<li>CHỦ ĐỀ</li>
+				<div class="dropdown">
+					<li onclick="dropdownmenu()">MENU</li>
+				</div>
+			</ul>
+		</div>
+	</nav>
+	<div class="menu">
+		<ul>
+			<li>THẾ GIỚI</li>
+			<li>XÃ HỘI</li>
+		</ul>
+		<ul>
+			<li>Thời sự</li>
+			<li>Giao thông</li>
+			<li>Môi trường - Khí hậu</li>
+		</ul>
+		<ul>
+			<li>VĂN HÓA</li>
+			<li>KINH TẾ</li>
+			<li>GIÁO DỤC</li>
+		</ul>
+	</div>
+	<div class="main">
+		<div class="main-left">
+			<a href="https://baomoi.com/nhung-hoat-dong-dich-vu-cua-ha-noi-duoc-phep-mo-cua-tu-ngay-21-9/r/40301568.epi#|hotnews|index0" class="item-left">
+				<img src="https://photo-baomoi.zadn.vn/w700_r16x9/2021_09_21_293_40301568/80a911754437ad69f426.jpg">
+				<h1>Những hoạt động, dịch vụ của Hà Nội được phép mở cửa từ ngày 21/9</h3>
+			</a>
+			<div class="row">
+				<a href="https://baomoi.com/hon-2-trieu-nguoi-da-tiem-mui-2-tp-hcm-can-them-6-trieu-lieu-vac-xin/r/40300438.epi#|hotnews|index1" class="item">
+					<img src="https://photo-baomoi.zadn.vn/w300_r3x2/2021_09_21_23_40300438/dce405e85faab6f4efbb.jpg">
+					<h3>Hơn 2 triệu người đã tiêm mũi 2, TP.HCM cần thêm 6 triệu liều vắc xin</h3>
+				</a>
+				<a href="https://zingnews.vn/tuyen-viet-nam-gap-malaysia-indonesia-o-aff-cup-2020-post1264982.html" class="item">
+					<img src="https://photo-baomoi.zadn.vn/w300_r3x2/2021_09_21_119_40300580/fa690cb504f7eda9b4e6.jpg">
+					<h3>Tuyển Việt Nam gặp Malaysia, Indonesia ở AFF Cup 2020</h3>
+				</a>
+				<a href="https://tienphong.vn/doi-mua-lan-mac-bao-ho-trum-kin-quay-quang-ganh-day-ap-qua-trung-thu-post1378188.tpo" class="item">
+					<img src="https://photo-baomoi.zadn.vn/w300_r3x2/2021_09_21_20_40300548/c9260aee5facb6f2efbd.jpg">
+					<h3>Đội múa lân mặc bảo hộ trùm kín 'quẩy' quang gánh đầy ắp quà trung thu</h3>
+				</a>
+			</div>
+		</div>
+		<div class="main-right">
+			<div class="row">
+				<a href="#" class="item-right">
+					<img src="https://photo-baomoi.zadn.vn/w300_r1x1/2021_09_17_65_30143590/33e3af63f4211d7f4430.jpg">
+					<h3>Tổng Bí thư: Chủ động kịch bản và giải pháp cho các khả năng, tình huống</h3>
+				</a>
+			</div>
+			<div class="row">
+				<a href="#" class="item-right">
+					<img src="https://photo-baomoi.zadn.vn/w300_r1x1_sm/2021_09_21_114_40301630/8c0f72d02792cecc9783.jpg">
+					<h3>Henry lý giải hành động Messi phản ứng HLV Pochettino</h3>
+				</a>
+			</div>
+			<div class="row">
+				<a href="#" class="item-right">
+					<img src="https://photo-baomoi.zadn.vn/w300_r1x1/2021_09_21_146_40301582/8bb109535c11b54fec00.jpg">
+					<h3>Chủ tịch nước Nguyễn Xuân Phúc gặp Đại tướng Raul Castro Ruz</h3>
+				</a>
+			</div>
+			<div class="row">
+				<a href="#" class="item-right">
+					<img src="https://photo-baomoi.zadn.vn/w300_r1x1/2021_09_21_83_40301621/96079edbcb9922c77b88.jpg">
+					<h3>Chủ tịch huyện xin nghỉ việc vì áp lực chống dịch, lãnh đạo tỉnh nói gì?</h3>
+				</a>
+			</div>
+			<div class="row">
+				<a href="#" class="item-right">
+					<img src="https://photo-baomoi.zadn.vn/w300_r1x1/2021_09_21_15_40301604/8804a6d8f39a1ac4438b.jpg">
+					<h3>Sao Trung Quốc 'nằm yên, thận trọng' hậu thanh lọc làng giải trí</h3>
+				</a>
+			</div>
+			<div class="row">
+				<a href="#" class="item-right">
+					<img src="https://photo-baomoi.zadn.vn/w300_r1x1/2021_09_21_15_40301634/f6670fb85afab3a4eaeb.jpg">
+					<h3>Lần đầu tiên Phú Yên đón người dân về quê từ Bà Rịa - Vũng Tàu</h3>
+				</a>
+			</div>
+
+		</div>
+	</div>
+	<footer>
+		<div class="footer">
+			<a href="#"></a>
+			<div class="search">
+				<input type="text" placeholder="Nhập nội dung tìm kiếm">
+				<button></button>
+			</div>
+		</div>
+		<div class="info">
+			<div class="info-left">
+				<h4>LIÊN HỆ</h4>
+				<a href="#">Giới thiệu</a><br>
+				<a href="#">Điều khoản sử dụng</a><br>
+				<a href="#">Quảng cáo</a>
+			</div>
+			<div class="info-right">
+				<p>Giấy phép số 1818/GP-TTĐT do Sở Thông tin và Truyền thông Hà Nội cấp ngày 05/05/2017<br>
+				Đơn vị chủ quản: Công ty Cổ phần Công nghệ EPI * Chịu trách nhiệm: Võ Quang<br>
+				Địa chỉ: Tầng 5, Tòa nhà Báo Sinh Viên VN, D29 Phạm Văn Bạch, Yên Hòa, Cầu Giấy, Hà Nội<br>
+				Tel: (024) 3-212-3232, số máy lẻ 6666. contact.baomoi@epi.com.vn</p>
+			</div>	
+		</div>
+	</footer>
 </body>
 </html>
+<script type="text/javascript">
+	a=document.getElementByClassName("dropdown");
+	b=document.getElementByClassName("menu");
+	function dropdownmenu() {
+		b.style.display = "block";
+	}
+</script>
