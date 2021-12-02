@@ -5,9 +5,9 @@ Những bài tập đã làm trong quá trình học môn thực tập lập tr�
 - báo cáo cuối môn học
 
 Những bài lab này đi từ cơ bản tới nâng cao hơn, gồm những bài chạy trên console và jframe
-- Lab 1. Lập trình cơ bản
-- Lab 2 - Lớp đối tượng, thừa kế
-- Lab 3 - Giao diện, Lớp trừu tượng
+- Lab 1: Lập trình cơ bản
+- Lab 2: Lớp đối tượng, thừa kế
+- Lab 3: Giao diện, Lớp trừu tượng
 - Lab 4: ARRAYLIST, LINKLIST, COLLECTION, GENERIC
 - Lab 5: QUẢN LÝ THREAD
 - Lab 6. LẬP TRÌNH CƠ SỞ DỮ LIỆU JDBC
